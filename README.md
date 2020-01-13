@@ -20,11 +20,9 @@
     </div>
 </nav>
 </header>
-<a href="about.html">about</a>
-<!--about-->
-
 <div>
     <div>
+		<!--project-->
 <img src="https://res.cloudinary.com/dlkcvwjdr/image/upload/v1578900427/project_image_2_vr49xt.jpg" alt="project_image" width="300px" height="300px">
 <p><a href="#">project 1</a></p>
 <img src="https://res.cloudinary.com/dlkcvwjdr/image/upload/v1578900429/project_image_7_vtowsu.jpg" alt="project_image" width="300px" height="300px">
