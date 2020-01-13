@@ -1,18 +1,3 @@
-# bookish-waffle
-<!--
-Function homegit
-insert image
-add name 
-add menubar
-add home
-add about
-add project
-add contact
-end
--->
-
-
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -28,13 +13,12 @@ end
         <ul>
             <li><a href="index.html">home</a></li>  
             <li><a href="contact.html">contact</a></li>
-            <li><a href="project.html">project</a></li></li>
-            <li><a href="about.html">about</a></li></li>
-            
-        </ul>
+            <li><a href="project.html">project</a></li>
+            <li><a href="about.html">about</a></li>
+   <img src="https://res.cloudinary.com/dlkcvwjdr/image/upload/v1578549991/project_image_1_txxgla.jpg" alt="background picture" width="1600px" height="1600px">
+       </ul>
     </div>
-    <img src="https://res.cloudinary.com/dlkcvwjdr/image/upload/v1578549991/project_image_1_txxgla.jpg" alt="background picture" width="1600px" height="1600px">
-
+</nav>
 </header>
 <a href="about.html">about</a>
 <!--about-->
@@ -75,9 +59,9 @@ end
     </article>
     </div>
     </main>
-
-    <!--contact-->
-    <footer>
+<!--contact-->
+   
+   <footer>
         <div>
             <h1>Contact</h1>
             <div>
@@ -93,8 +77,7 @@ end
                 </ul>
             </div>
         </div>
-
-        <div>
+     <div>
             <p>&copy; 2020 waterman001.</p>
         </div>
     </footer>
